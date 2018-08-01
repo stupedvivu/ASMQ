@@ -1,4 +1,4 @@
-# ASMQ
+# ASQ
 Autonomous Stabilisation of QUADCopter Using Raspberry Pi
 
 This is the Working folder on Raspberry pi for our quadcopter.All softwares has been written in python.
